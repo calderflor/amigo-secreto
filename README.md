@@ -77,10 +77,7 @@ El objetivo principal de este desafío es desarrollar habilidades en lógica de 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calderflor&repo=amigo-secreto&layout=compact&theme=radical" alt="Lenguajes utilizados" width="400">
   
-  **Porcentajes:**
-  - HTML: 28.0%
-  - CSS: 48.9%
-  - JavaScript: 23.1%
+
 </div>
 
 ## 📥 Instalación
@@ -119,7 +116,6 @@ Requisitos del sistema:
 ## 👤 Autor
 <div align="center">
 <a href="https://github.com/calderflor">
-<img src="https://avatars.githubusercontent.com/u/calderflor" width="100px;" alt="Flor"/>
 <br />
 <sub><b>Flor Calderón</b></sub>
 </a>
@@ -154,7 +150,6 @@ Permiso otorgado para usar, copiar, modificar, fusionar, publicar, distribuir...
 ## 👤 Autor
 <div align="center">
 <a href="https://github.com/calderflor">
-<img src="https://avatars.githubusercontent.com/u/calderflor" width="100px;" alt="Flor"/>
 <br />
 <sub><b>Flor Calderón</b></sub>
 </a>
