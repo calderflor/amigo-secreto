@@ -4,24 +4,8 @@
   <img src="assets/amigo-secreto.png" alt="Logo Amigo Secreto" width="300">
   <br>
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/amigo-secreto?style=flat-square)
-  ![GitHub license](https://img.shields.io/github/license/tu-usuario/amigo-secreto?style=flat-square)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/amigo-secreto?style=flat-square)
-</div>
+  </div>
 
-## 📑 Índice
-1. [Descripción](#-descripción)
-2. [Estado del Proyecto](#-estado-del-proyecto)
-3. [Funcionalidades](#-funcionalidades)
-4. [Demo](#-demo)
-5. [Tecnologías](#-tecnologías)
-6. [Distribución de Lenguajes](#-distribución-de-lenguajes)
-7. [Instalación](#-instalación)
-8. [Uso](#-uso)
-9. [Contribución](#-contribución)
-10. [Autores](#-autores)
-11. [Licencia](#-licencia)
-12. [Contacto](#-contacto)
 
 ## 📌 Descripción
 **Amigo Secreto** es una aplicación web minimalista que permite organizar sorteos para intercambios de regalos entre amigos, familiares o compañeros de trabajo.
@@ -37,11 +21,6 @@
 🚀 Versión 1.0.0 - Estable 🚀
 </h4>
 
-**Próximas características:**
-- [ ] Guardar listas de participantes
-- [ ] Opción para reiniciar sorteo
-- [ ] Compartir resultados por redes sociales
-
 ## ✨ Funcionalidades
 | Función | Descripción |
 |---------|-------------|
@@ -53,7 +32,7 @@
 
 ## 🎥 Demo
 <div align="center">
-  <img src="assets/demo.gif" alt="Demo de funcionamiento" width="600">
+  <img src="C:\Users\flor\Documents\git-y-github\amigo-secreto\assets\Amigo Secreto - Google Chrome 2025-08-10 16-05-00.gif" alt="Demo de funcionamiento" width="600">
   <p><em>Proceso completo de añadir participantes y realizar sorteo</em></p>
 </div>
 
@@ -68,10 +47,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&repo=amigo-secreto&layout=compact&theme=radical" alt="Lenguajes utilizados">
   
-  ```text
-  HTML:   %
-  CSS:    %
-  JavaScript: %
+  HTML: 28.0 %
+  CSS: 48.9 %
+  JavaScript: 23.1 %
 </div>
 📥 Instalación
 Clona el repositorio:
@@ -130,7 +108,7 @@ Documenta cualquier cambio importante
 Actualiza el README si es necesario
 
 👥 Autor
-<div align="center"> <table> <tr> <td align="center"> <a href=https://github.com/calderflor> <img src="https://avatars.githubusercontent.com/u/tu-userid?v=4" width="100px;" alt="Tu Nombre"/> <br /> <sub><b>Flor</b></sub> </a> <br /> <a href="https://github.com/calderflor/amigo-secreto.git commits?author=tu-usuario" title="Contribuciones">💻</a> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <a href=https://github.com/calderflor> <img src=https://github.com/account width="100px;" alt="Flor"/> <br /> <sub><b>Flor</b></sub> </a> <br /> <a href="https://github.com/calderflor/amigo-secreto.git commits?author=tu-usuario">💻</a> </td> </tr> </table> </div>
 📜 Licencia
 Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
 
